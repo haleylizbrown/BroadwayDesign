@@ -25,16 +25,20 @@ a{
   font-size: 18px;
 }
 
-h3.process, 
+h3.process 
 h3.resources{
   font-size: 23px;
   font-weight: bold;
 }
 
-p.process, 
+p.process 
 p.resources{
   font-size: 14px;
-  color: gray;
+}
+
+.process
+.resources{
+  color: dimgray;
 }
 
 .header2{
