@@ -29,22 +29,18 @@ h3.process,
 h3.resources{
   font-size: 23px;
   font-weight: bold;
-  color: dimgray;
 }
 
 p.process, 
 p.resources{
   font-size: 14px;
+  color: dimgray;
 }
 
 .header2{
   font-size: 23px;
   font-weight: bold;
   color: white;
-}
-
-.process{
-  color: dimgray;
 }
 
 .header1{
