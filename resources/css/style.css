@@ -63,6 +63,7 @@ p.resources{
 .footer{
   background-color: dimgray;
   color: white;
+  text-align: left !important;
 }
 
 #footer{
