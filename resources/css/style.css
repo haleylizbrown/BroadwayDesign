@@ -35,13 +35,16 @@ h3.resources{
 p.process, 
 p.resources{
   font-size: 14px;
-  color: dimgray;
 }
 
-h3.header2{
+.header2{
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+.process{
+  color: dimgray;
 }
 
 .header1{
