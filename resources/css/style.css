@@ -20,6 +20,11 @@ span{
   color: white;
 }
 
+h1 a{
+  color: white;
+  font-size: 18px;
+}
+
 h3.process, 
 h3.resources{
   font-size: 23px;
@@ -41,11 +46,6 @@ h3.header2{
 
 .header1{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-}
-
-.headermenu{
-  font-size: 18px;
-  color: white;
 }
 
 .header2{
